@@ -1,4 +1,3 @@
-```markdown
 # WiCSxSA: Predicting Game Outcomes
 
 This project, `WiCSxSA`, analyzes regular season game data and advanced stats to predict game outcomes. The workflow leverages data preprocessing, feature selection, and machine learning techniques to build a predictive model.
