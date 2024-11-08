@@ -1,6 +1,6 @@
 # WiCSxSA: Predicting Game Outcomes
 
-This project, `WiCSxSA`, analyzes regular season game data and advanced stats to predict game outcomes. The workflow leverages data preprocessing, feature selection, and machine learning techniques to build a predictive model.
+This project analyzes regular season game data and advanced stats to predict game outcomes. The workflow leverages data preprocessing, feature selection, and machine learning techniques to build a predictive model.
 
 ## Project Overview
 
@@ -35,7 +35,7 @@ Ensure `reg_season.csv` and `advanced_stats.csv` are in the root directory of yo
 
 To execute the project:
 
-1. Open `WiCSxSA.ipynb` in Jupyter Notebook or Google Colab.
+1. Open file in Jupyter Notebook or Google Colab.
 2. Run each cell to preprocess the data, select features, and train the model.
 3. The final cell outputs the accuracy of the model after performing a Monte Carlo simulation.
 
@@ -83,7 +83,7 @@ Accuracy: 0.68
 
 ## Project Structure
 
-- `WiCSxSA.ipynb`: Main notebook containing all steps from data loading to model evaluation.
+- `wnbagamepredictions.py`: Main notebook containing all steps from data loading to model evaluation.
 
 ## Contributing
 
