@@ -1,4 +1,4 @@
-# WiCSxSA: Predicting Game Outcomes
+# WNBA Game Outcome Prediction
 
 This project analyzes regular season game data and advanced stats to predict game outcomes. The workflow leverages data preprocessing, feature selection, and machine learning techniques to build a predictive model.
 
