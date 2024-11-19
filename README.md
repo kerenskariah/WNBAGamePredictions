@@ -22,8 +22,8 @@ This project analyzes regular season game data and advanced stats to predict gam
 Clone the repository and install the required packages:
 
 ```bash
-git clone https://github.com/your-username/WiCSxSA.git
-cd WiCSxSA
+git clone https://github.com/kerenskariah/WNBAGamePredictions.git
+cd WNBAGamePredictions
 pip install -r requirements.txt
 ```
 
